@@ -3,6 +3,7 @@ import moment from 'moment';
 import ExampleComponent from './ExampleComponent'
 // eslint-disable-next-line
 import TestComponent from './TestComponent'
+import App from '/.App';
 
 // Add your code own within the return statement
 
